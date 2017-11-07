@@ -8,7 +8,10 @@
     "type": "git",
     "url": "git+https://github.com/JonDotsoy/wrapperErrorAsyncFunction.git"
   },
-  "keywords": [],
+  "keywords": [
+    "util",
+    "promise"
+  ],
   "author": "Jonathan Delgado <hi@jon.soy> (https://jon.soy)",
   "license": "MIT",
   "bugs": {
