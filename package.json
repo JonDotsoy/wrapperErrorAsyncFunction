@@ -1,7 +1,7 @@
 {
   "name": "@jondotsoy/wrappererrorasyncfunction",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Omit the `promise.catch(fn)` expression.",
   "main": "index.js",
   "scripts": {},
   "repository": {

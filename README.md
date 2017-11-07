@@ -17,7 +17,7 @@ sayError()
 // (node:8612) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
 ```
 
-**with @jondotsoy/wrapperErrorAsyncFunction**
+**with @jondotsoy/wrappererrorasyncfunction**
 
 ```javascript
 import wrapperErrorAsyncFunction from '@jondotsoy/wrappererrorasyncfunction'
