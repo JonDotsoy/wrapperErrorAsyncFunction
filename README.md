@@ -20,7 +20,7 @@ sayError()
 **with @jondotsoy/wrapperErrorAsyncFunction**
 
 ```javascript
-import wrapperErrorAsyncFunction from '@jondotsoy/wrapperErrorAsyncFunction'
+import wrapperErrorAsyncFunction from '@jondotsoy/wrappererrorasyncfunction'
 
 const sayError = wrapperErrorAsyncFunction(async function sayError () {
   throw new Error('Hola :D')
