@@ -1,4 +1,4 @@
-# README
+# Wrapper Error Async Function
 
 Wrapper to show error on an async function immediately invoked. This omit the `promise.catch(fn)` expression.
 
